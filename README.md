@@ -1,4 +1,6 @@
-# hello-world
+#20171202, 22:45, Kun Wang
+
+# hello-world~
 Repository following the hello-world guide
 
 Hi Humans!
