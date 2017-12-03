@@ -14,6 +14,6 @@ image inside folders
 
 ![image](/images/img0001.png)
 
-<br>2017-09-17: Branch2 commit</br>
+2017-09-17: Branch2 commit
 
 
