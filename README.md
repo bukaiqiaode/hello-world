@@ -12,7 +12,7 @@ This is the line to learn the branch/commit feature of GitHub
 
 image inside folders
 
-![image](/images/img0001.png)
+![image](/images/image_08fb70107edc.jpg)
 
 2017-09-17: Branch2 commit
 
